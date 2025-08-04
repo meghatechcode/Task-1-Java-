@@ -43,3 +43,7 @@ Choose operation:
 Result: 20.0
 Do you want to calculate again? (yes/no): no
 Goodbye!
+
+👩‍💻 Author
+**Megha Rathi**  
+Java Developer Intern Task  
